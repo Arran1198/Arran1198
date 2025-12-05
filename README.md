@@ -5,8 +5,7 @@
   👩🏻‍💻 Software Engineer Enthusiastic in training. <br/>
   🏫 Studying [Computer Engineering] at, [Azad University Kerman](https://intiau.university/azad-university-kerman/)<br/>
   📚 Book Enthusiast and Scholar, [goodreads](https://www.goodreads.com/user/show/194893717-arran)<br/>
-  💭 Currently Self learning C++, and diffrent algorithems, and basics with great hope.<br/>
-
+  💭 Currently Self learning C++, and html/css with great great hope for the future. <br/>
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
